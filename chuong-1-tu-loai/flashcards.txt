@@ -13,6 +13,7 @@ tomato → ? / photo → ?	tomatoes / photos	mlh-chuong-1-tu-loai::01-danh-tu
 Số nhiều của man, child, tooth, mouse?	men, children, teeth, mice	mlh-chuong-1-tu-loai::01-danh-tu
 Số nhiều của passer-by?	passers-by (đổi từ đầu)	mlh-chuong-1-tu-loai::01-danh-tu
 news, mathematics + is hay are?	is: The news is good.	mlh-chuong-1-tu-loai::01-danh-tu
+family, team, government, staff + is hay are?	Tùy ý: xem là một khối → is / it (The average family has 3.6 members.); nghĩ tới từng thành viên → are / they (My family have decided to move.). Riêng police, people, cattle luôn are.	mlh-chuong-1-tu-loai::01-danh-tu
 The number of … / A number of … + is hay are?	The number of → is; A number of → are	mlh-chuong-1-tu-loai::01-danh-tu
 N₁ as well as / with / of + N₂: chia theo danh từ nào?	Danh từ đầu: The CEO, as well as the members, has…	mlh-chuong-1-tu-loai::01-danh-tu
 N₁ or / neither…nor + N₂: chia theo danh từ nào?	Danh từ gần động từ: Either he or I am wrong.	mlh-chuong-1-tu-loai::01-danh-tu
@@ -46,7 +47,7 @@ All us hay All of us?	All of us: trước đại từ không bỏ of.	mlh-chuong
 Sửa: I didn't say nothing.	I said nothing. / I didn't say anything.	mlh-chuong-1-tu-loai::02-dai-tu
 'Họ cưới nhau' nói thế nào?	They married. (không thêm each other)	mlh-chuong-1-tu-loai::02-dai-tu
 Someone left ___ bag (đại từ nào)?	their: Someone left their bag.	mlh-chuong-1-tu-loai::02-dai-tu
-this/these khác that/those thế nào?	this/these = gần (this book, these books); that/those = xa (that car, those cars)	mlh-chuong-1-tu-loai::03-tinh-tu
+this/these khác that/those thế nào?	this/these = gần (this book, these books); that/those = xa, hoặc quá khứ/tương lai xa (that car, those cars, that summer)	mlh-chuong-1-tu-loai::03-tinh-tu
 another, other, the other + danh từ gì?	another + số ít (another cup); other + số ít/nhiều (other people); the other = cái còn lại (the other shoe)	mlh-chuong-1-tu-loai::03-tinh-tu
 each hay every: có hai thứ? nói tần suất?	Hai thứ → each hand; tần suất → every ten minutes	mlh-chuong-1-tu-loai::03-tinh-tu
 both / either / neither + danh từ số ít hay số nhiều?	both + số nhiều (both answers); either/neither + số ít (neither answer)	mlh-chuong-1-tu-loai::03-tinh-tu
@@ -94,6 +95,7 @@ elder than hay older than?	older than. elder dùng trước danh từ (my elder 
 early → so sánh hơn?	earlier, earliest (không nói more early)	mlh-chuong-1-tu-loai::05-so-sanh
 Trạng từ đuôi -ly so sánh thế nào?	more / most: more slowly, the most carefully	mlh-chuong-1-tu-loai::05-so-sanh
 the tallest ___ the class / ___ the three?	in the class (nơi/nhóm) / of the three (số nhiều xác định)	mlh-chuong-1-tu-loai::05-so-sanh
+Chỉ có hai đối tượng: the brighter hay the brightest?	Dùng được so sánh hơn thay so sánh nhất: Paul is the brighter (of the two); Which of these two photos is the better?	mlh-chuong-1-tu-loai::05-so-sanh
 big, hot, thin → so sánh hơn?	Gấp đôi phụ âm: bigger, hotter, thinner (nhưng new → newer)	mlh-chuong-1-tu-loai::05-so-sanh
 happy, busy → so sánh hơn/nhất?	y → i: happier, the busiest	mlh-chuong-1-tu-loai::05-so-sanh
 Càng… càng… ?	The + so sánh hơn …, the + so sánh hơn …: The older I get, the happier I am.	mlh-chuong-1-tu-loai::05-so-sanh
@@ -210,6 +212,7 @@ watch television hay watch the television?	watch television; nhưng turn off the
 some hay any trong câu phủ định / câu hỏi?	any: There isn't any milk. / Are there any eggs?	mlh-chuong-1-tu-loai::11-luong-tu
 Lời mời 'Bạn uống chút cà phê nhé?' dùng some hay any?	some: Would you like some coffee?	mlh-chuong-1-tu-loai::11-luong-tu
 any còn có nghĩa gì trong câu khẳng định?	bất cứ: You can catch any bus.	mlh-chuong-1-tu-loai::11-luong-tu
+something / anything, someone / anyone dùng theo quy tắc nào?	Giống some / any: khẳng định, lời mời → some- (There's somebody at the door.); phủ định, câu hỏi → any- (Is there anybody here?)	mlh-chuong-1-tu-loai::11-luong-tu
 many hay much + money?	much (money không đếm được): How much money...?	mlh-chuong-1-tu-loai::11-luong-tu
 Từ nào chỉ 'nhiều' dùng được cho cả N đếm được và không đếm được?	a lot of / lots of / plenty of: a lot of friends, a lot of time	mlh-chuong-1-tu-loai::11-luong-tu
 Sau so / as / too dùng a lot of được không?	Không, chỉ much / many: too many mistakes, so much traffic	mlh-chuong-1-tu-loai::11-luong-tu
