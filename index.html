@@ -249,6 +249,21 @@ table.cmp tr { animation: fadein .4s ease both; }
 }
 em { font-style: italic; color: inherit; }
 
+/* Large screens: widen the content column and scale everything (text, diagrams, buttons) up
+   so a 24–32" monitor doesn't show a narrow strip of small text. */
+@media (min-width: 1400px) {
+  main { max-width: 960px; }
+  body { zoom: 1.1; }
+}
+@media (min-width: 1800px) {
+  main { max-width: 1060px; }
+  body { zoom: 1.25; }
+}
+@media (min-width: 2300px) {
+  main { max-width: 1140px; }
+  body { zoom: 1.4; }
+}
+
 .course { display: flex; gap: 16px; align-items: center; color: var(--text); }
 .course .ico { font-size: 44px; line-height: 1; flex: none; }
 .course .body { flex: 1; min-width: 0; }

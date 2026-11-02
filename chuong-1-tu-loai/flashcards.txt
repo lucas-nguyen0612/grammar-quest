@@ -75,7 +75,7 @@ Trạng từ tần suất + động từ thường: đứng đâu?	Trước đ�
 Trạng từ tần suất + be / trợ động từ: đứng đâu?	Sau be/trợ ĐT: She is always late. I have never been there.	mlh-chuong-1-tu-loai::04-trang-tu
 Trạng từ có chen giữa động từ và tân ngữ không?	Không: She speaks English well (không phải speaks well English).	mlh-chuong-1-tu-loai::04-trang-tu
 Thứ tự nhiều trạng từ cuối câu?	Cách thức → nơi chốn → tần suất → thời gian: walked slowly round the park after dinner.	mlh-chuong-1-tu-loai::04-trang-tu
-always / never có đứng đầu hay cuối câu không?	Không. Normally I tip…, không phải Always I tip…	mlh-chuong-1-tu-loai::04-trang-tu
+always / never có đứng đầu hay cuối câu không?	Không (ở câu bình thường). Normally I tip…, không phải Always I tip…; riêng đảo ngữ Never have I… thì được (bài 04c).	mlh-chuong-1-tu-loai::04-trang-tu
 still và just đứng ở đâu?	Chỉ giữa câu: I am still waiting. She has just left.	mlh-chuong-1-tu-loai::04-trang-tu
 Never / Rarely / Seldom đầu câu thì sao?	Đảo trợ ĐT như câu hỏi: Never have I seen… / Seldom do I go…	mlh-chuong-1-tu-loai::04-trang-tu
 Hardly … ? / No sooner … ?	Hardly … when; No sooner … than. Hardly had she sat down when the phone rang.	mlh-chuong-1-tu-loai::04-trang-tu
@@ -90,7 +90,7 @@ Nhấn mạnh 'hơn nhiều'?	much / far / a lot / even + so sánh hơn: much bi
 older than ___ (tôi)?	than me (thân mật) / than I am (trang trọng)	mlh-chuong-1-tu-loai::05-so-sanh
 So sánh nhất của từ ngắn / từ dài?	the + adj-est (the tallest) / the most + adj (the most famous)	mlh-chuong-1-tu-loai::05-so-sanh
 good / bad → hơn → nhất?	good → better → best; bad → worse → worst	mlh-chuong-1-tu-loai::05-so-sanh
-elder than hay older than?	older than. elder chỉ đứng trước danh từ: my elder sister	mlh-chuong-1-tu-loai::05-so-sanh
+elder than hay older than?	older than. elder dùng trước danh từ (my elder sister) hoặc thay danh từ (the elder), không đi với than	mlh-chuong-1-tu-loai::05-so-sanh
 early → so sánh hơn?	earlier, earliest (không nói more early)	mlh-chuong-1-tu-loai::05-so-sanh
 Trạng từ đuôi -ly so sánh thế nào?	more / most: more slowly, the most carefully	mlh-chuong-1-tu-loai::05-so-sanh
 the tallest ___ the class / ___ the three?	in the class (nơi/nhóm) / of the three (số nhiều xác định)	mlh-chuong-1-tu-loai::05-so-sanh
@@ -105,7 +105,7 @@ sent me a postcard = sent a postcard ___ me?	to: sent a postcard to me (buy … 
 3 dạng của teach?	teach – taught – taught	mlh-chuong-1-tu-loai::06-dong-tu
 be / do / have làm trợ động từ để làm gì?	be: tiếp diễn, bị động · do: hỏi, phủ định, nhấn mạnh · have: hoàn thành	mlh-chuong-1-tu-loai::06-dong-tu
 Sau động từ tình thái là gì?	V nguyên mẫu không to: She can swim.	mlh-chuong-1-tu-loai::06-dong-tu
-Tương lai của can?	will be able to: I'll be able to drive.	mlh-chuong-1-tu-loai::06-dong-tu
+Không nói 'will can', vậy nói thế nào?	will be able to: I'll be able to drive.	mlh-chuong-1-tu-loai::06-dong-tu
 Một lần cụ thể đã làm được: could hay was able to?	was/were able to: We were able to escape.	mlh-chuong-1-tu-loai::06-dong-tu
 'Could I…?' đồng ý trả lời thế nào?	Yes, of course you can.	mlh-chuong-1-tu-loai::06-dong-tu
 may hay might chắc hơn?	may (~50%) chắc hơn might (~30%)	mlh-chuong-1-tu-loai::06-dong-tu
