@@ -1,0 +1,221 @@
+#separator:tab
+#html:false
+#tags column:3
+a/an đi với loại danh từ nào?	Danh từ đếm được số ít: a pen, an idea	mlh-chuong-1-tu-loai::01-danh-tu
+furniture, information, money: đếm được không?	Không. Không -s, không a/an: some furniture	mlh-chuong-1-tu-loai::01-danh-tu
+Muốn đếm danh từ không đếm được thì làm sao?	Thêm đơn vị: two bottles of water, a piece of information	mlh-chuong-1-tu-loai::01-danh-tu
+a paper nghĩa là gì?	một tờ báo (paper không đếm được = giấy)	mlh-chuong-1-tu-loai::01-danh-tu
+much hay many + money?	much money (không đếm được)	mlh-chuong-1-tu-loai::01-danh-tu
+Danh từ tận cùng s, sh, ch, x, z: số nhiều thêm gì?	-es: buses, dishes, watches, boxes	mlh-chuong-1-tu-loai::01-danh-tu
+baby → ? / day → ?	babies (phụ âm + y) / days (nguyên âm + y)	mlh-chuong-1-tu-loai::01-danh-tu
+knife, leaf, wife → số nhiều?	knives, leaves, wives (nhưng roof → roofs)	mlh-chuong-1-tu-loai::01-danh-tu
+tomato → ? / photo → ?	tomatoes / photos	mlh-chuong-1-tu-loai::01-danh-tu
+Số nhiều của man, child, tooth, mouse?	men, children, teeth, mice	mlh-chuong-1-tu-loai::01-danh-tu
+Số nhiều của passer-by?	passers-by (đổi từ đầu)	mlh-chuong-1-tu-loai::01-danh-tu
+news, mathematics + is hay are?	is: The news is good.	mlh-chuong-1-tu-loai::01-danh-tu
+The number of … / A number of … + is hay are?	The number of → is; A number of → are	mlh-chuong-1-tu-loai::01-danh-tu
+N₁ as well as / with / of + N₂: chia theo danh từ nào?	Danh từ đầu: The CEO, as well as the members, has…	mlh-chuong-1-tu-loai::01-danh-tu
+N₁ or / neither…nor + N₂: chia theo danh từ nào?	Danh từ gần động từ: Either he or I am wrong.	mlh-chuong-1-tu-loai::01-danh-tu
+The police + is hay are?	are: The police are looking for him.	mlh-chuong-1-tu-loai::01-danh-tu
+Sở hữu của parents (bố mẹ)?	parents' (đã có -s → chỉ thêm '): my parents' house	mlh-chuong-1-tu-loai::01-danh-tu
+Sở hữu của children?	children's (không có -s → thêm 's): the children's room	mlh-chuong-1-tu-loai::01-danh-tu
+'s hay of: tên của con đường?	the name of the street (vật → of)	mlh-chuong-1-tu-loai::01-danh-tu
+Nhóm vật vẫn dùng 's?	Nơi chốn, thời gian, tiền, tổ chức: today's paper, a week's holiday	mlh-chuong-1-tu-loai::01-danh-tu
+Joe and Ann's children vs Joe's and Ann's children?	chung (con của cả hai) vs riêng (con của từng người)	mlh-chuong-1-tu-loai::01-danh-tu
+at the doctor's nghĩa là?	ở phòng khám bác sĩ (bỏ danh từ sau 's)	mlh-chuong-1-tu-loai::01-danh-tu
+Dạng tân ngữ của I, he, she, we, they?	me, him, her, us, them: Lan called me.	mlh-chuong-1-tu-loai::02-dai-tu
+Hai đại từ nhân xưng nào giữ nguyên dạng khi làm tân ngữ?	you và it: I saw it and it saw me.	mlh-chuong-1-tu-loai::02-dai-tu
+Đứng sau giới từ (for, to, with) dùng dạng nào?	Dạng tân ngữ: This is for us.	mlh-chuong-1-tu-loai::02-dai-tu
+'Mười giờ rồi' / 'Trời mưa' nói thế nào?	Dùng chủ ngữ giả It: It's ten o'clock. It's raining.	mlh-chuong-1-tu-loai::02-dai-tu
+Hỏi 'Ai gọi điện thế?' khi chưa biết là ai?	Who was it on the phone? ~ It was Vicky. She…	mlh-chuong-1-tu-loai::02-dai-tu
+my hay mine: '___ book' và 'The book is ___'?	my book (có danh từ) / The book is mine (đứng một mình).	mlh-chuong-1-tu-loai::02-dai-tu
+Có nói 'the mine' được không?	Không. That coat is mine.	mlh-chuong-1-tu-loai::02-dai-tu
+'Một người bạn của tôi' nói thế nào?	a friend of mine (không phải of me).	mlh-chuong-1-tu-loai::02-dai-tu
+Khi nào dùng myself làm tân ngữ?	Khi chủ ngữ và tân ngữ là một: The gunman shot himself.	mlh-chuong-1-tu-loai::02-dai-tu
+'Mang theo tiền bên mình': with him hay with himself?	with him: sau giới từ chỉ vị trí dùng đại từ nhân xưng.	mlh-chuong-1-tu-loai::02-dai-tu
+by myself nghĩa là gì?	Một mình / không ai giúp: He lives by himself.	mlh-chuong-1-tu-loai::02-dai-tu
+this hay that cho việc vừa xong?	that: That was nice. (sắp tới → this: Listen to this.)	mlh-chuong-1-tu-loai::02-dai-tu
+Tự giới thiệu trên điện thoại?	This is Lan. Is that Ruth?	mlh-chuong-1-tu-loai::02-dai-tu
+who + giới từ: giới từ đặt ở đâu?	Cuối câu: Who did you go with? (trang trọng: With whom…?)	mlh-chuong-1-tu-loai::02-dai-tu
+which hay what khi chọn trong vài thứ đã nêu?	Which: Tea or coffee? Which will you have?	mlh-chuong-1-tu-loai::02-dai-tu
+Hỏi nghề nghiệp bằng what?	What does he do? ~ He's a doctor.	mlh-chuong-1-tu-loai::02-dai-tu
+Sai ở đâu: 'the girl who we met her'?	Thừa her: the girl who we met.	mlh-chuong-1-tu-loai::02-dai-tu
+Each of the students ___ (have) a laptop?	has: each of → động từ số ít.	mlh-chuong-1-tu-loai::02-dai-tu
+Everybody ___ (like) her?	likes: everybody là số ít.	mlh-chuong-1-tu-loai::02-dai-tu
+All us hay All of us?	All of us: trước đại từ không bỏ of.	mlh-chuong-1-tu-loai::02-dai-tu
+Sửa: I didn't say nothing.	I said nothing. / I didn't say anything.	mlh-chuong-1-tu-loai::02-dai-tu
+'Họ cưới nhau' nói thế nào?	They married. (không thêm each other)	mlh-chuong-1-tu-loai::02-dai-tu
+Someone left ___ bag (đại từ nào)?	their: Someone left their bag.	mlh-chuong-1-tu-loai::02-dai-tu
+this/these khác that/those thế nào?	this/these = gần (this book, these books); that/those = xa (that car, those cars)	mlh-chuong-1-tu-loai::03-tinh-tu
+another, other, the other + danh từ gì?	another + số ít (another cup); other + số ít/nhiều (other people); the other = cái còn lại (the other shoe)	mlh-chuong-1-tu-loai::03-tinh-tu
+each hay every: có hai thứ? nói tần suất?	Hai thứ → each hand; tần suất → every ten minutes	mlh-chuong-1-tu-loai::03-tinh-tu
+both / either / neither + danh từ số ít hay số nhiều?	both + số nhiều (both answers); either/neither + số ít (neither answer)	mlh-chuong-1-tu-loai::03-tinh-tu
+a few khác few thế nào?	a few = có vài (tích cực): a few friends. few = rất ít (tiêu cực): few friends, so he is lonely	mlh-chuong-1-tu-loai::03-tinh-tu
+boring hay bored: 'Tôi thấy chán'?	I am bored (-ed = người cảm thấy). The film is boring (-ing = cái gây ra).	mlh-chuong-1-tu-loai::03-tinh-tu
+'Cửa hàng giày' — shoe shop hay shoes shop?	shoe shop — danh từ làm tính từ luôn số ít.	mlh-chuong-1-tu-loai::03-tinh-tu
+'Chuyến đi 5 tuần' viết thế nào?	a five-week tour (gạch nối, không -s)	mlh-chuong-1-tu-loai::03-tinh-tu
+'Con trai 5 tuổi' đặt trước danh từ?	a five-year-old son (nhưng: He is five years old)	mlh-chuong-1-tu-loai::03-tinh-tu
+Tính từ ghép là gì? Ví dụ?	2+ từ dùng như một tính từ, thường có gạch nối: well-known, man-made, hard-working	mlh-chuong-1-tu-loai::03-tinh-tu
+something + tính từ: đặt tính từ ở đâu?	Sau: something important, anything new	mlh-chuong-1-tu-loai::03-tinh-tu
+'một em bé đang ngủ' — asleep baby?	Không. a sleeping baby (asleep chỉ đứng sau hệ từ: The baby is asleep)	mlh-chuong-1-tu-loai::03-tinh-tu
+Kể 5 hệ từ (linking verbs)	be, look, feel, seem, become, get, sound, taste, smell, appear: You look tired.	mlh-chuong-1-tu-loai::03-tinh-tu
+Tính từ ý kiến hay miêu tả đứng trước?	Ý kiến trước: a nice new house, a beautiful large round wooden table	mlh-chuong-1-tu-loai::03-tinh-tu
+the two first days hay the first two days?	the first two days — số thứ tự trước số đếm	mlh-chuong-1-tu-loai::03-tinh-tu
+the poor + is hay are?	are — the + tính từ chỉ nhóm người, nghĩa số nhiều: The poor are…	mlh-chuong-1-tu-loai::03-tinh-tu
+'Người Pháp' nói chung?	the French (+ động từ số nhiều): The French are…	mlh-chuong-1-tu-loai::03-tinh-tu
+the poor's problems đúng không?	Không. the problems of the poor	mlh-chuong-1-tu-loai::03-tinh-tu
+'Những người già ở phố tôi' — the old in my street?	Không. Nhóm cụ thể → the old people in my street	mlh-chuong-1-tu-loai::03-tinh-tu
+Trạng từ của good?	well: She sings well. (không có goodly)	mlh-chuong-1-tu-loai::04-trang-tu
+hard và hardly khác nhau thế nào?	hard = chăm chỉ, mạnh; hardly = hầu như không. He hardly works.	mlh-chuong-1-tu-loai::04-trang-tu
+late và lately?	late = muộn; lately = gần đây. I haven't seen him lately.	mlh-chuong-1-tu-loai::04-trang-tu
+friendly, silly thành trạng từ thế nào?	Không thêm -ly được → in a friendly way, in a silly way.	mlh-chuong-1-tu-loai::04-trang-tu
+enough đứng trước hay sau tính từ?	Sau: big enough, fast enough.	mlh-chuong-1-tu-loai::04-trang-tu
+easy, careful → trạng từ?	easy → easily (y → i); careful → carefully (-lly)	mlh-chuong-1-tu-loai::04-trang-tu
+Trạng từ tần suất + động từ thường: đứng đâu?	Trước động từ: She often cooks.	mlh-chuong-1-tu-loai::04-trang-tu
+Trạng từ tần suất + be / trợ động từ: đứng đâu?	Sau be/trợ ĐT: She is always late. I have never been there.	mlh-chuong-1-tu-loai::04-trang-tu
+Trạng từ có chen giữa động từ và tân ngữ không?	Không: She speaks English well (không phải speaks well English).	mlh-chuong-1-tu-loai::04-trang-tu
+Thứ tự nhiều trạng từ cuối câu?	Cách thức → nơi chốn → tần suất → thời gian: walked slowly round the park after dinner.	mlh-chuong-1-tu-loai::04-trang-tu
+always / never có đứng đầu hay cuối câu không?	Không. Normally I tip…, không phải Always I tip…	mlh-chuong-1-tu-loai::04-trang-tu
+still và just đứng ở đâu?	Chỉ giữa câu: I am still waiting. She has just left.	mlh-chuong-1-tu-loai::04-trang-tu
+Never / Rarely / Seldom đầu câu thì sao?	Đảo trợ ĐT như câu hỏi: Never have I seen… / Seldom do I go…	mlh-chuong-1-tu-loai::04-trang-tu
+Hardly … ? / No sooner … ?	Hardly … when; No sooner … than. Hardly had she sat down when the phone rang.	mlh-chuong-1-tu-loai::04-trang-tu
+Only when / Not until: đảo ở đâu?	Ở mệnh đề chính (vế sau): Not until I got home did I notice it.	mlh-chuong-1-tu-loai::04-trang-tu
+Here comes the bus — nếu chủ ngữ là it?	Không đảo: Here it comes.	mlh-chuong-1-tu-loai::04-trang-tu
+Not long ago / Not far … có đảo không?	Không: Not long ago, I met her.	mlh-chuong-1-tu-loai::04-trang-tu
+Công thức so sánh bằng?	as + adj/adv + as: as tall as. Phủ định: not as/so … as	mlh-chuong-1-tu-loai::05-so-sanh
+Khi nào thêm -er, khi nào dùng more?	Ngắn (1 âm tiết; 2 âm tiết đuôi -er/-ow/-y/-le) → -er; dài → more: cheaper, happier, more famous	mlh-chuong-1-tu-loai::05-so-sanh
+the same … ? (bằng tuổi Lan)	the same age as Lan (không dùng like/with)	mlh-chuong-1-tu-loai::05-so-sanh
+'Đắt gấp đôi' nói thế nào?	twice as expensive as (không nói twice more expensive than)	mlh-chuong-1-tu-loai::05-so-sanh
+Nhấn mạnh 'hơn nhiều'?	much / far / a lot / even + so sánh hơn: much bigger	mlh-chuong-1-tu-loai::05-so-sanh
+older than ___ (tôi)?	than me (thân mật) / than I am (trang trọng)	mlh-chuong-1-tu-loai::05-so-sanh
+So sánh nhất của từ ngắn / từ dài?	the + adj-est (the tallest) / the most + adj (the most famous)	mlh-chuong-1-tu-loai::05-so-sanh
+good / bad → hơn → nhất?	good → better → best; bad → worse → worst	mlh-chuong-1-tu-loai::05-so-sanh
+elder than hay older than?	older than. elder chỉ đứng trước danh từ: my elder sister	mlh-chuong-1-tu-loai::05-so-sanh
+early → so sánh hơn?	earlier, earliest (không nói more early)	mlh-chuong-1-tu-loai::05-so-sanh
+Trạng từ đuôi -ly so sánh thế nào?	more / most: more slowly, the most carefully	mlh-chuong-1-tu-loai::05-so-sanh
+the tallest ___ the class / ___ the three?	in the class (nơi/nhóm) / of the three (số nhiều xác định)	mlh-chuong-1-tu-loai::05-so-sanh
+big, hot, thin → so sánh hơn?	Gấp đôi phụ âm: bigger, hotter, thinner (nhưng new → newer)	mlh-chuong-1-tu-loai::05-so-sanh
+happy, busy → so sánh hơn/nhất?	y → i: happier, the busiest	mlh-chuong-1-tu-loai::05-so-sanh
+Càng… càng… ?	The + so sánh hơn …, the + so sánh hơn …: The older I get, the happier I am.	mlh-chuong-1-tu-loai::05-so-sanh
+Trời càng ngày càng lạnh?	It's getting colder and colder. (từ dài: more and more expensive)	mlh-chuong-1-tu-loai::05-so-sanh
+Càng sớm càng tốt?	The sooner the better.	mlh-chuong-1-tu-loai::05-so-sanh
+So sánh hai hành động?	V-ing … than V-ing / to V … than to V: Walking is healthier than driving.	mlh-chuong-1-tu-loai::05-so-sanh
+Ngoại động từ là gì?	Động từ cần tân ngữ đi sau: invite Sally, buy a car.	mlh-chuong-1-tu-loai::06-dong-tu
+sent me a postcard = sent a postcard ___ me?	to: sent a postcard to me (buy … for Celia)	mlh-chuong-1-tu-loai::06-dong-tu
+3 dạng của teach?	teach – taught – taught	mlh-chuong-1-tu-loai::06-dong-tu
+be / do / have làm trợ động từ để làm gì?	be: tiếp diễn, bị động · do: hỏi, phủ định, nhấn mạnh · have: hoàn thành	mlh-chuong-1-tu-loai::06-dong-tu
+Sau động từ tình thái là gì?	V nguyên mẫu không to: She can swim.	mlh-chuong-1-tu-loai::06-dong-tu
+Tương lai của can?	will be able to: I'll be able to drive.	mlh-chuong-1-tu-loai::06-dong-tu
+Một lần cụ thể đã làm được: could hay was able to?	was/were able to: We were able to escape.	mlh-chuong-1-tu-loai::06-dong-tu
+'Could I…?' đồng ý trả lời thế nào?	Yes, of course you can.	mlh-chuong-1-tu-loai::06-dong-tu
+may hay might chắc hơn?	may (~50%) chắc hơn might (~30%)	mlh-chuong-1-tu-loai::06-dong-tu
+mustn't khác don't have to thế nào?	mustn't = cấm · don't have to = không cần	mlh-chuong-1-tu-loai::06-dong-tu
+Quá khứ của must (bắt buộc)?	had to: I had to work late.	mlh-chuong-1-tu-loai::06-dong-tu
+must khác have to thế nào?	must: người nói thấy cần · have to: luật, hoàn cảnh bên ngoài	mlh-chuong-1-tu-loai::06-dong-tu
+had better + ?	V nguyên mẫu không to; khuyên cho tình huống cụ thể: You'd better go now.	mlh-chuong-1-tu-loai::06-dong-tu
+Would you mind + ?	V-ing: Would you mind closing the door?	mlh-chuong-1-tu-loai::06-dong-tu
+Shall I…? và Shall we…?	Shall I = đề nghị giúp · Shall we = rủ cùng làm	mlh-chuong-1-tu-loai::06-dong-tu
+Thang chắc chắn (khẳng định)?	is 100% > must 95% > may / might / could dưới 50%	mlh-chuong-1-tu-loai::06-dong-tu
+'Không thể nào' (99%) dùng gì?	can't / couldn't: She can't be hungry.	mlh-chuong-1-tu-loai::06-dong-tu
+Chắc hẳn đã xảy ra?	must have + V3: It must have rained.	mlh-chuong-1-tu-loai::06-dong-tu
+should have + V3 nghĩa là?	Lẽ ra nên làm nhưng đã không: You should have told me.	mlh-chuong-1-tu-loai::06-dong-tu
+used to khác be used to thế nào?	used to + V: trước đây thường · be used to + V-ing: quen với	mlh-chuong-1-tu-loai::06-dong-tu
+This room needs ___ (clean)?	cleaning (= needs to be cleaned)	mlh-chuong-1-tu-loai::06-dong-tu
+want / decide / hope + ?	to-V: I decided to stay.	mlh-chuong-1-tu-loai::06-dong-tu
+tell / ask / advise + người + ?	to-V: She told me to wait.	mlh-chuong-1-tu-loai::06-dong-tu
+let / make + người + ?	V không to: They made him repeat it.	mlh-chuong-1-tu-loai::06-dong-tu
+It's kind ___ you to help.	of (tính từ chỉ cách cư xử)	mlh-chuong-1-tu-loai::06-dong-tu
+Bị động của 'They let him go'?	He was allowed to go. (không nói was let)	mlh-chuong-1-tu-loai::06-dong-tu
+enjoy / avoid / finish / mind + ?	V-ing: I enjoy cooking.	mlh-chuong-1-tu-loai::06-dong-tu
+Sau giới từ dùng dạng gì của động từ?	V-ing: interested in learning, look forward to seeing	mlh-chuong-1-tu-loai::06-dong-tu
+stop smoking khác stop to smoke?	stop smoking = bỏ thuốc · stop to smoke = dừng lại để hút	mlh-chuong-1-tu-loai::06-dong-tu
+remember to lock khác remember locking?	to lock: nhớ phải khóa (chưa làm) · locking: nhớ đã khóa	mlh-chuong-1-tu-loai::06-dong-tu
+try to do khác try doing?	try to do = cố gắng · try doing = thử	mlh-chuong-1-tu-loai::06-dong-tu
+boring khác bored thế nào?	boring: gây ra sự chán (a boring film) · bored: cảm thấy chán (I'm bored)	mlh-chuong-1-tu-loai::06-dong-tu
+falling leaves và stolen jewellery?	V-ing: nghĩa chủ động · V3: nghĩa bị động	mlh-chuong-1-tu-loai::06-dong-tu
+be busy / spend time + ?	V-ing: She's busy cooking.	mlh-chuong-1-tu-loai::06-dong-tu
+look / seem / taste (hệ từ) + tính từ hay trạng từ?	Tính từ: You look tired.	mlh-chuong-1-tu-loai::06-dong-tu
+Opening the bottle, Mike poured… = ?	Mike opened the bottle and then poured… (cùng chủ ngữ)	mlh-chuong-1-tu-loai::06-dong-tu
+Cụm động từ (phrasal verb) là gì?	Động từ + trạng từ/giới từ (đôi khi cả hai), thường có nghĩa mới: put off = hoãn	mlh-chuong-1-tu-loai::07-cum-dong-tu
+tear up the letter → thay the letter bằng it?	tear it up (không phải tear up it)	mlh-chuong-1-tu-loai::07-cum-dong-tu
+Cụm tách rời được + tân ngữ là danh từ: đặt ở đâu?	Trước hoặc sau tiểu từ: throw the papers away = throw away the papers	mlh-chuong-1-tu-loai::07-cum-dong-tu
+look after her hay look her after?	look after her — look after không tách rời	mlh-chuong-1-tu-loai::07-cum-dong-tu
+Cụm ba thành phần (look forward to) có tách được không?	Không. I'm looking forward to the trip.	mlh-chuong-1-tu-loai::07-cum-dong-tu
+turn up và arrive khác nhau thế nào?	Cùng nghĩa 'đến'; turn up thân mật (văn nói), arrive trịnh trọng	mlh-chuong-1-tu-loai::07-cum-dong-tu
+carry on / go on = ?	tiếp tục (= continue): Everybody carried on working.	mlh-chuong-1-tu-loai::07-cum-dong-tu
+give up = ?	bỏ, từ bỏ (= stop): He gave up alcohol.	mlh-chuong-1-tu-loai::07-cum-dong-tu
+call off = ?	hủy bỏ (= cancel): They called off the match.	mlh-chuong-1-tu-loai::07-cum-dong-tu
+hold on = ?	đợi (= wait): Hold on for a minute, please.	mlh-chuong-1-tu-loai::07-cum-dong-tu
+lên xe / xuống xe = ?	get on / get off: I got on the train. This is where I get off.	mlh-chuong-1-tu-loai::07-cum-dong-tu
+break down (xe, máy) = ?	hỏng: His car broke down on the way.	mlh-chuong-1-tu-loai::07-cum-dong-tu
+fill in / hand in = ?	điền vào (đơn) / nộp (= submit): Essays must be handed in by Friday.	mlh-chuong-1-tu-loai::07-cum-dong-tu
+bring up · look after · let down = ?	nuôi nấng (= raise) · chăm sóc · làm thất vọng: He let me down.	mlh-chuong-1-tu-loai::07-cum-dong-tu
+turn on / turn off = ?	bật / tắt (đèn, máy): Turn off the lights.	mlh-chuong-1-tu-loai::07-cum-dong-tu
+turn up / turn down (nhạc, TV) = ?	vặn to / vặn nhỏ: Turn that music down.	mlh-chuong-1-tu-loai::07-cum-dong-tu
+put on / take off / try on = ?	mặc vào / cởi ra (máy bay: cất cánh) / mặc thử: Could I try it on?	mlh-chuong-1-tu-loai::07-cum-dong-tu
+put off hay set off: hoãn cuộc họp?	put off (= postpone). set off = khởi hành.	mlh-chuong-1-tu-loai::07-cum-dong-tu
+pick up / see off = ?	đón (bằng xe) / tiễn: I'll pick you up. Judy came to see me off.	mlh-chuong-1-tu-loai::07-cum-dong-tu
+turn up / show up (người) = ?	đến (= arrive): She didn't turn up.	mlh-chuong-1-tu-loai::07-cum-dong-tu
+look up · run out of · turn down = ?	tra (look it up) · hết (ran out of milk) · từ chối (= refuse)	mlh-chuong-1-tu-loai::07-cum-dong-tu
+take after · put up with = ?	giống (= resemble) · chịu đựng: She takes after her mother.	mlh-chuong-1-tu-loai::07-cum-dong-tu
+Ở nhà / ở chỗ làm: at, on hay in?	at home, at work, at school	mlh-chuong-1-tu-loai::08-gioi-tu
+Sống ở một thành phố, quốc gia: giới từ nào?	in: in Hanoi, in Vietnam	mlh-chuong-1-tu-loai::08-gioi-tu
+Ở tầng 5: giới từ nào?	on the fifth floor	mlh-chuong-1-tu-loai::08-gioi-tu
+Trong xe hơi / trên xe buýt?	in a car, in a taxi / on a bus, on a train	mlh-chuong-1-tu-loai::08-gioi-tu
+between hay among?	between A and B (kể riêng) / among a crowd (một nhóm)	mlh-chuong-1-tu-loai::08-gioi-tu
+at / on / in + giờ, ngày, tháng?	at 7 o'clock · on Monday · in May / in 2025	mlh-chuong-1-tu-loai::08-gioi-tu
+'vào tuần sau' nói thế nào?	next week (không có in/on/at)	mlh-chuong-1-tu-loai::08-gioi-tu
+for hay since + 2015?	since 2015 (mốc) · for ten years (độ dài)	mlh-chuong-1-tu-loai::08-gioi-tu
+by Friday khác until Friday thế nào?	by = hạn chót, không muộn hơn · until = kéo dài đến tận	mlh-chuong-1-tu-loai::08-gioi-tu
+on time hay in time = kịp lúc?	in time = kịp · on time = đúng giờ	mlh-chuong-1-tu-loai::08-gioi-tu
+across hay along the river?	across = băng sang bờ kia · along = đi dọc theo	mlh-chuong-1-tu-loai::08-gioi-tu
+Đi bộ / đi xe buýt?	on foot / by bus (không a/the)	mlh-chuong-1-tu-loai::08-gioi-tu
+'bằng dao' dùng giới từ nào?	with a knife (dụng cụ cầm tay)	mlh-chuong-1-tu-loai::08-gioi-tu
+Giới từ + động từ → dạng gì?	V-ing: by giving up, without knocking	mlh-chuong-1-tu-loai::08-gioi-tu
+đi nghỉ / dưới mưa / cố ý?	on holiday · in the rain · on purpose	mlh-chuong-1-tu-loai::08-gioi-tu
+afraid / interested / good + giới từ?	afraid of · interested in · good at	mlh-chuong-1-tu-loai::08-gioi-tu
+good at khác good for?	good at = giỏi về · good for = tốt cho	mlh-chuong-1-tu-loai::08-gioi-tu
+'câu trả lời cho câu hỏi' = answer ___ the question?	answer to the question	mlh-chuong-1-tu-loai::08-gioi-tu
+depend ___ / wait ___ / belong ___?	depend on · wait for · belong to	mlh-chuong-1-tu-loai::08-gioi-tu
+arrive at hay arrive in + London?	arrive in London (thành phố) · arrive at the airport (điểm)	mlh-chuong-1-tu-loai::08-gioi-tu
+increase in hay increase of + the price?	an increase in the price · an increase of 10%	mlh-chuong-1-tu-loai::08-gioi-tu
+4 nhóm liên từ kết hợp và nghĩa của chúng?	AND thêm vào · BUT trái ngược · OR lựa chọn · SO kết quả	mlh-chuong-1-tu-loai::09-lien-tu
+both / either / neither / not only đi cặp với từ nào?	both–and, either–or, neither–nor, not only–but also	mlh-chuong-1-tu-loai::09-lien-tu
+However, Nevertheless thuộc nhóm nghĩa nào?	Nhóm BUT (trái ngược), mở câu mới: I was tired. However, I kept working.	mlh-chuong-1-tu-loai::09-lien-tu
+Therefore, As a result, Consequently thuộc nhóm nào?	Nhóm SO (kết quả): More women are working. As a result, the birth rate is falling.	mlh-chuong-1-tu-loai::09-lien-tu
+Otherwise nghĩa là gì?	Nếu không thì: Take an umbrella. Otherwise, you'll get wet.	mlh-chuong-1-tu-loai::09-lien-tu
+'Vì… nên…' nói sao trong tiếng Anh?	Chỉ dùng một từ: Because I was tired, I went to bed. / I was tired, so I went to bed.	mlh-chuong-1-tu-loai::09-lien-tu
+'Mặc dù… nhưng…' nói sao trong tiếng Anh?	Although it was cold, we went swimming. (không thêm but)	mlh-chuong-1-tu-loai::09-lien-tu
+so hay such: ___ a boring speech that…?	such (có danh từ): such a boring speech that I fell asleep	mlh-chuong-1-tu-loai::09-lien-tu
+so hay such: ___ angry that…?	so (chỉ tính từ): Emma was so angry that she couldn't speak.	mlh-chuong-1-tu-loai::09-lien-tu
+unless và in case nghĩa là gì?	unless = trừ khi (if… not); in case = phòng khi	mlh-chuong-1-tu-loai::09-lien-tu
+since và as có mấy nghĩa?	Hai: thời gian (khi, từ khi) và lý do (vì)	mlh-chuong-1-tu-loai::09-lien-tu
+a hay an trước university?	a university — đọc /juː/, âm phụ âm.	mlh-chuong-1-tu-loai::10-mao-tu
+a hay an trước hour?	an hour — h câm, âm đầu là nguyên âm.	mlh-chuong-1-tu-loai::10-mao-tu
+'Tôi là kỹ sư' tiếng Anh?	I'm an engineer. (nghề nghiệp phải có a/an)	mlh-chuong-1-tu-loai::10-mao-tu
+'Một người bạn của tôi' nói thế nào?	a friend of mine (KHÔNG: a my friend)	mlh-chuong-1-tu-loai::10-mao-tu
+have ___ breakfast: có a không?	Không: have breakfast. Có tính từ thì có: a good breakfast.	mlh-chuong-1-tu-loai::10-mao-tu
+Nhắc lần hai cùng một vật: a hay the?	the: I bought a shirt. The shirt is blue.	mlh-chuong-1-tu-loai::10-mao-tu
+Vật duy nhất (sun, moon, world) dùng gì?	the: the sun, the world, the government	mlh-chuong-1-tu-loai::10-mao-tu
+Trước so sánh nhất / first / only / same?	the: the best, the first day, the only way	mlh-chuong-1-tu-loai::10-mao-tu
+music hay the music?	music = âm nhạc nói chung; the music in this film = nhạc cụ thể	mlh-chuong-1-tu-loai::10-mao-tu
+'Người nghèo' (cả nhóm) nói thế nào?	the poor (the + tính từ)	mlh-chuong-1-tu-loai::10-mao-tu
+Nói về cả loài hổ sắp tuyệt chủng?	The tiger is… / Tigers are… (KHÔNG: A tiger is…)	mlh-chuong-1-tu-loai::10-mao-tu
+play ___ football: có the không?	Không: play football (môn thể thao).	mlh-chuong-1-tu-loai::10-mao-tu
+Life is… hay The life is…?	Life is beautiful (nói chung). Nhưng: the life of Beethoven.	mlh-chuong-1-tu-loai::10-mao-tu
+go to school hay go to the school?	go to school = đi học; go to the school = đến tòa nhà trường vì việc khác.	mlh-chuong-1-tu-loai::10-mao-tu
+Tên nước: Vietnam hay the Vietnam?	Vietnam. Nhưng: the United States, the Philippines.	mlh-chuong-1-tu-loai::10-mao-tu
+Sông, biển, đại dương có the không?	Có: the Mekong, the Pacific.	mlh-chuong-1-tu-loai::10-mao-tu
+watch television hay watch the television?	watch television; nhưng turn off the television (cái máy).	mlh-chuong-1-tu-loai::10-mao-tu
+some hay any trong câu phủ định / câu hỏi?	any: There isn't any milk. / Are there any eggs?	mlh-chuong-1-tu-loai::11-luong-tu
+Lời mời 'Bạn uống chút cà phê nhé?' dùng some hay any?	some: Would you like some coffee?	mlh-chuong-1-tu-loai::11-luong-tu
+any còn có nghĩa gì trong câu khẳng định?	bất cứ: You can catch any bus.	mlh-chuong-1-tu-loai::11-luong-tu
+many hay much + money?	much (money không đếm được): How much money...?	mlh-chuong-1-tu-loai::11-luong-tu
+Từ nào chỉ 'nhiều' dùng được cho cả N đếm được và không đếm được?	a lot of / lots of / plenty of: a lot of friends, a lot of time	mlh-chuong-1-tu-loai::11-luong-tu
+Sau so / as / too dùng a lot of được không?	Không, chỉ much / many: too many mistakes, so much traffic	mlh-chuong-1-tu-loai::11-luong-tu
+few khác a few thế nào?	few = ít quá (not many); a few = có một vài (some). Few people came. / A few people came.	mlh-chuong-1-tu-loai::11-luong-tu
+little hay few + time?	little / a little (time không đếm được): a little time	mlh-chuong-1-tu-loai::11-luong-tu
+Most people hay Most of people?	Most people (không có the/my thì không dùng of). Có the/my: Most of the people.	mlh-chuong-1-tu-loai::11-luong-tu
+Bỏ of được không: all of them?	Không. Trước đại từ phải giữ of: all of them. Trước the/my thì bỏ được: all (of) my friends.	mlh-chuong-1-tu-loai::11-luong-tu
+every / each + danh từ số ít hay số nhiều?	Số ít: every room, each student (+ động từ số ít)	mlh-chuong-1-tu-loai::11-luong-tu
+Nhóm hai thứ (hai bên đường) dùng every hay each?	each: each side of the street	mlh-chuong-1-tu-loai::11-luong-tu

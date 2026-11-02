@@ -1,0 +1,108 @@
+{
+  "slug": "mlh-chuong-1-tu-loai",
+  "title": "Chương 1 · Từ loại",
+  "icon": "📘",
+  "subtitle": "11 chủ đề · 39 bài, mỗi bài 25 phút. Học mỗi ngày một bài, ôn theo lịch.",
+  "source": "Giải thích ngữ pháp tiếng Anh, Mai Lan Hương & Hà Thanh Uyên (tr. 5–253)",
+  "order": 1,
+  "topics": [
+    {
+      "id": "01-danh-tu",
+      "title": "Danh từ",
+      "icon": "📦"
+    },
+    {
+      "id": "02-dai-tu",
+      "title": "Đại từ",
+      "icon": "👤"
+    },
+    {
+      "id": "03-tinh-tu",
+      "title": "Tính từ",
+      "icon": "🌈"
+    },
+    {
+      "id": "04-trang-tu",
+      "title": "Trạng từ",
+      "icon": "⚡"
+    },
+    {
+      "id": "05-so-sanh",
+      "title": "So sánh",
+      "icon": "⚖️"
+    },
+    {
+      "id": "06-dong-tu",
+      "title": "Động từ",
+      "icon": "🔧"
+    },
+    {
+      "id": "07-cum-dong-tu",
+      "title": "Cụm động từ",
+      "icon": "🧩"
+    },
+    {
+      "id": "08-gioi-tu",
+      "title": "Giới từ",
+      "icon": "📍"
+    },
+    {
+      "id": "09-lien-tu",
+      "title": "Liên từ",
+      "icon": "🪢"
+    },
+    {
+      "id": "10-mao-tu",
+      "title": "Mạo từ",
+      "icon": "🎯"
+    },
+    {
+      "id": "11-luong-tu",
+      "title": "Lượng từ",
+      "icon": "🔢"
+    }
+  ],
+  "lessons": [
+    "01a",
+    "01b",
+    "01c",
+    "01d",
+    "02a",
+    "02b",
+    "02c",
+    "02d",
+    "03a",
+    "03b",
+    "03c",
+    "03d",
+    "04a",
+    "04b",
+    "04c",
+    "05a",
+    "05b",
+    "05c",
+    "06a",
+    "06b",
+    "06c",
+    "06d",
+    "06e",
+    "06f",
+    "06g",
+    "07a",
+    "07b",
+    "07c",
+    "08a",
+    "08b",
+    "08c",
+    "08d",
+    "09a",
+    "09b",
+    "10a",
+    "10b",
+    "10c",
+    "11a",
+    "11b"
+  ],
+  "questions": 737,
+  "flashcards": 218
+}
