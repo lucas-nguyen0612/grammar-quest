@@ -1,0 +1,101 @@
+#separator:tab
+#html:false
+#tags column:3
+Hiện tại đơn: khi nào động từ thêm -s/-es?	Khi chủ ngữ là ngôi thứ ba số ít (he, she, it, Tom): She works.	mlh-chuong-2-thi::01-thi-hien-tai
+Động từ tận cùng bằng chữ gì thì thêm -es?	o, s, x, z, ch, sh: go → goes, watch → watches	mlh-chuong-2-thi::01-thi-hien-tai
+study → ?   stay → ?	studies (phụ âm + y) · stays (nguyên âm + y)	mlh-chuong-2-thi::01-thi-hien-tai
+Câu phủ định / câu hỏi có còn -s ở động từ không?	Không. She doesn't drink. Does she go…?	mlh-chuong-2-thi::01-thi-hien-tai
+Hiện tại đơn dùng cho 4 việc gì?	Thói quen · chân lý · nhận thức/cảm xúc/công việc hiện tại · thời gian biểu	mlh-chuong-2-thi::01-thi-hien-tai
+Công thức hiện tại tiếp diễn?	am/is/are + V-ing: She is working.	mlh-chuong-2-thi::01-thi-hien-tai
+this week, these days (tạm thời) đi với thì nào?	Hiện tại tiếp diễn: This week Paul is travelling by bus.	mlh-chuong-2-thi::01-thi-hien-tai
+always + V-ing nghĩa là gì?	Phàn nàn 'cứ… mãi': You're always losing your keys!	mlh-chuong-2-thi::01-thi-hien-tai
+know, want, like, need, own… có chia tiếp diễn không?	Không, dùng hiện tại đơn: She wants to go home (không nói is wanting).	mlh-chuong-2-thi::01-thi-hien-tai
+write → ?   stop → ?   see → ?	writing · stopping · seeing	mlh-chuong-2-thi::01-thi-hien-tai
+Công thức hiện tại hoàn thành?	have/has + V3: She has learned French.	mlh-chuong-2-thi::01-thi-hien-tai
+V3 của see, go, write, break?	seen, gone, written, broken	mlh-chuong-2-thi::01-thi-hien-tai
+Hiện tại hoàn thành có đi với yesterday, … ago không?	Không (mốc đã qua → quá khứ đơn). Nhưng today, this week (chưa hết) thì được.	mlh-chuong-2-thi::01-thi-hien-tai
+'I've worked here for ten years' → còn làm không?	Còn. Hiện tại hoàn thành = kéo dài tới nay.	mlh-chuong-2-thi::01-thi-hien-tai
+Báo tin mới dùng thì gì?	Hiện tại hoàn thành: Andy has passed his exam! (kể chi tiết sau đó → quá khứ đơn)	mlh-chuong-2-thi::01-thi-hien-tai
+for hay since + 1987?	since (mốc). for + khoảng: for two years.	mlh-chuong-2-thi::01-thi-hien-tai
+yet dùng trong loại câu nào?	Phủ định và câu hỏi, cuối câu: I haven't finished yet.	mlh-chuong-2-thi::01-thi-hien-tai
+already đứng ở đâu?	Giữa have và V3: I have already had breakfast.	mlh-chuong-2-thi::01-thi-hien-tai
+This is the first time + thì gì?	Hiện tại hoàn thành: This is the first time I've heard her sing.	mlh-chuong-2-thi::01-thi-hien-tai
+so far, until now, up to now nghĩa là?	Cho đến nay: He has made four films so far.	mlh-chuong-2-thi::01-thi-hien-tai
+Công thức hiện tại hoàn thành tiếp diễn?	have/has + been + V-ing: I've been waiting for an hour.	mlh-chuong-2-thi::01-thi-hien-tai
+been + V-ing nhấn gì? V3 nhấn gì?	been + V-ing: quá trình (all afternoon). V3: kết quả, số lượng (two rooms).	mlh-chuong-2-thi::01-thi-hien-tai
+know, be… với 'for two days' chia thế nào?	Hiện tại hoàn thành: I've known her for two days (không nói been knowing).	mlh-chuong-2-thi::01-thi-hien-tai
+'It's been raining' khi trời đã tạnh nghĩa là?	Mưa vừa dừng, còn để lại kết quả: đường vẫn ướt.	mlh-chuong-2-thi::01-thi-hien-tai
+Quá khứ của be?	I/he/she/it was · we/you/they were They were at home.	mlh-chuong-2-thi::02-thi-qua-khu
+Sau did / didn't, động từ ở dạng nào?	Nguyên mẫu: I didn't go. Did you go?	mlh-chuong-2-thi::02-thi-qua-khu
+Dấu hiệu thời gian của quá khứ đơn?	yesterday, last week, … ago, on Monday, in 2013 He joined the company two years ago.	mlh-chuong-2-thi::02-thi-qua-khu
+V2 của go, see, write?	go → went, see → saw, write → wrote	mlh-chuong-2-thi::02-thi-qua-khu
+Kể chuỗi hành động nối tiếp nhau dùng thì gì?	Quá khứ đơn cho cả chuỗi: She got out, locked the door and walked away.	mlh-chuong-2-thi::02-thi-qua-khu
+Có yesterday / ago / in 2002 → thì nào?	Quá khứ đơn: I saw it yesterday. (không dùng have seen)	mlh-chuong-2-thi::02-thi-qua-khu
+I've worked there for 10 years ↔ I worked there for 10 years?	have worked: vẫn còn làm · worked: giờ không làm nữa	mlh-chuong-2-thi::02-thi-qua-khu
+It has been windy this morning ↔ It was windy this morning?	has been: vẫn còn buổi sáng · was: buổi sáng đã qua	mlh-chuong-2-thi::02-thi-qua-khu
+Báo tin mới: câu đầu và câu chi tiết dùng thì gì?	Câu đầu: hiện tại hoàn thành · chi tiết: quá khứ đơn There has been an accident. It happened at ten.	mlh-chuong-2-thi::02-thi-qua-khu
+We went to Scotland once: once nghĩa là gì?	Một dịp trong quá khứ (in 2002). Với HTHT, once = một lần tính đến nay.	mlh-chuong-2-thi::02-thi-qua-khu
+Công thức quá khứ tiếp diễn?	S + was/were + V-ing They were playing football at that time.	mlh-chuong-2-thi::02-thi-qua-khu
+Việc đang diễn ra + việc ngắn chen vào?	Dài: was/were + V-ing · ngắn: V2 I was walking when I saw Bill.	mlh-chuong-2-thi::02-thi-qua-khu
+Hai việc nối tiếp nhau dùng thì gì?	Cả hai quá khứ đơn: The bell rang, and Tim went to the door.	mlh-chuong-2-thi::02-thi-qua-khu
+was always + V-ing nghĩa là gì?	'Cứ… mãi', gây khó chịu: He was always ringing me up.	mlh-chuong-2-thi::02-thi-qua-khu
+hear, feel, know có dùng quá khứ tiếp diễn không?	Không → quá khứ đơn: He felt tired. They heard the bell.	mlh-chuong-2-thi::02-thi-qua-khu
+Công thức quá khứ hoàn thành?	S + had + V3 (mọi ngôi) The rain had stopped.	mlh-chuong-2-thi::02-thi-qua-khu
+Hai việc quá khứ: việc xảy ra trước dùng gì?	had + V3; việc sau dùng V2 When I arrived, Lucy had gone home.	mlh-chuong-2-thi::02-thi-qua-khu
+When I arrived, the meeting began ↔ had begun?	began: tôi đến rồi mới họp · had begun: họp trước khi tôi tới	mlh-chuong-2-thi::02-thi-qua-khu
+Sau after / before / as soon as: V2 hay had + V3?	Cả hai đều được; had + V3 nhấn mạnh việc 1 xong hẳn trước.	mlh-chuong-2-thi::02-thi-qua-khu
+I told her that I ___ (finish).	had finished: việc xảy ra trước lúc nói.	mlh-chuong-2-thi::02-thi-qua-khu
+Công thức quá khứ hoàn thành tiếp diễn?	S + had been + V-ing She had been working hard.	mlh-chuong-2-thi::02-thi-qua-khu
+Kéo dài bao lâu tới mốc quá khứ: were walking hay had been walking?	had been walking: We'd been walking since sunrise.	mlh-chuong-2-thi::02-thi-qua-khu
+had been collecting ↔ had collected?	had been collecting: nhấn sự liên tục · had collected: nhấn kết quả (hundreds of pounds)	mlh-chuong-2-thi::02-thi-qua-khu
+belong, know có dùng had been + V-ing không?	Không → had + V3: The motorcycle had belonged to George.	mlh-chuong-2-thi::02-thi-qua-khu
+Sau will là dạng động từ nào?	Nguyên mẫu không to: She will call you.	mlh-chuong-2-thi::03-thi-tuong-lai
+will not, shall not rút gọn thành gì?	won't, shan't	mlh-chuong-2-thi::03-thi-tuong-lai
+shall đi với chủ ngữ nào?	Chỉ I / we: Shall I carry your bag? Shall we go?	mlh-chuong-2-thi::03-thi-tuong-lai
+Quyết định ngay lúc đang nói: dùng gì?	will: It's raining. I'll take an umbrella.	mlh-chuong-2-thi::03-thi-tuong-lai
+Will dùng cho 5 việc nào?	Sự việc chắc chắn · dự đoán · hứa / dọa · quyết định tức thì · yêu cầu / đề nghị / mời	mlh-chuong-2-thi::03-thi-tuong-lai
+Công thức be going to?	S + am/is/are + going to + V: I'm going to look for a new flat.	mlh-chuong-2-thi::03-thi-tuong-lai
+Dự đoán khi thấy dấu hiệu trước mắt?	be going to: Look at those clouds. It's going to rain.	mlh-chuong-2-thi::03-thi-tuong-lai
+Quyết định ngay lúc nói: will hay going to?	will: ~ Well, we'll eat out then.	mlh-chuong-2-thi::03-thi-tuong-lai
+Dự định đã có từ trước: will hay going to?	be going to: We're going to eat out tonight.	mlh-chuong-2-thi::03-thi-tuong-lai
+Kế hoạch với go / come: sách khuyên dùng gì?	Hiện tại tiếp diễn: We're going to the movies tonight. My brother is coming on the weekend.	mlh-chuong-2-thi::03-thi-tuong-lai
+Hẹn đã sắp xếp (có giờ, có nơi): dùng thì nào?	HT tiếp diễn: I'm seeing Larry on Saturday.	mlh-chuong-2-thi::03-thi-tuong-lai
+Thời gian biểu tàu xe, rạp hát: dùng thì nào?	HT đơn: The train leaves at 11.15.	mlh-chuong-2-thi::03-thi-tuong-lai
+be to + V dùng khi nào?	Kế hoạch chính thức, văn trang trọng, bản tin: The President is to visit Nigeria next month.	mlh-chuong-2-thi::03-thi-tuong-lai
+'Sắp… rồi' (ngay bây giờ) nói thế nào?	be (just) about to + V: The bus is about to leave.	mlh-chuong-2-thi::03-thi-tuong-lai
+Dự định chưa sắp xếp: HT tiếp diễn hay going to?	be going to: I'm going to see my tutor.	mlh-chuong-2-thi::03-thi-tuong-lai
+Công thức tương lai tiếp diễn?	S + will be + V-ing: I'll be working all day tomorrow.	mlh-chuong-2-thi::03-thi-tuong-lai
+'Giờ này tuần sau tôi đang…' dùng thì nào?	TL tiếp diễn: This time next week, I'll be lying on the beach.	mlh-chuong-2-thi::03-thi-tuong-lai
+Hỏi lịch sự về kế hoạch của ai đó?	Will you be + V-ing…? Will you be going away at the weekend?	mlh-chuong-2-thi::03-thi-tuong-lai
+be / know / believe có dùng will be + V-ing không?	Không → dùng TL đơn: All the family will be there. You won't believe this.	mlh-chuong-2-thi::03-thi-tuong-lai
+Công thức tương lai hoàn thành?	S + will have + V3: They'll have finished the roof by Tuesday.	mlh-chuong-2-thi::03-thi-tuong-lai
+Công thức tương lai hoàn thành tiếp diễn?	S + will have been + V-ing: By 2018 he'll have been living in Madrid for 20 years.	mlh-chuong-2-thi::03-thi-tuong-lai
+Dấu hiệu hay gặp của hai thì này?	by + mốc tương lai: by then, by the time, by next June, by 10 o'clock	mlh-chuong-2-thi::03-thi-tuong-lai
+TL hoàn thành khác TL hoàn thành tiếp diễn thế nào?	HT: xong, kết quả (written the report). HTTD: kéo dài liên tục (been writing it for a week).	mlh-chuong-2-thi::03-thi-tuong-lai
+Sau when/before, thay 'will have finished' bằng gì?	Hiện tại hoàn thành: when I have finished my homework.	mlh-chuong-2-thi::03-thi-tuong-lai
+make, write, come + -ing?	Bỏ e: making, writing, coming	mlh-chuong-2-thi::04-chinh-ta-phat-am
+see, die + -ing?	ee giữ nguyên: seeing · ie → y: dying, lying	mlh-chuong-2-thi::04-chinh-ta-phat-am
+Khi nào gấp đôi phụ âm cuối?	Từ 1 âm tiết (hoặc 2 âm tiết nhấn âm cuối) tận cùng 1 nguyên âm + 1 phụ âm: stopped, planning, preferred. Không gấp đôi y, w, x: played, fixed.	mlh-chuong-2-thi::04-chinh-ta-phat-am
+study → -ed? -ing?	studied (y → i) nhưng studying (giữ y)	mlh-chuong-2-thi::04-chinh-ta-phat-am
+visit, open, rain + -ed?	Thêm thẳng: visited, opened, rained (nhấn âm đầu / 2 nguyên âm)	mlh-chuong-2-thi::04-chinh-ta-phat-am
+Khi nào -ed đọc /ɪd/?	Âm cuối /t/ hoặc /d/: wanted, decided (thêm 1 tiếng)	mlh-chuong-2-thi::04-chinh-ta-phat-am
+-ed đọc /t/ hay /d/?	Âm cuối vô thanh → /t/: stopped, watched · hữu thanh / nguyên âm → /d/: lived, played	mlh-chuong-2-thi::04-chinh-ta-phat-am
+Kiểm tra hữu thanh hay vô thanh thế nào?	Đặt tay lên cổ: rung = hữu thanh (/z/, /v/, nguyên âm); không rung = vô thanh (/s/, /p/, /k/)	mlh-chuong-2-thi::04-chinh-ta-phat-am
+Khi nào -s/-es đọc /ɪz/?	Sau âm xuýt /s/, /z/, /ʃ/, /ʒ/, /tʃ/, /dʒ/: watches, kisses, edges	mlh-chuong-2-thi::04-chinh-ta-phat-am
+-s đọc /s/ hay /z/?	Sau /t/, /p/, /k/ → /s/: sits, stops, takes · sau hữu thanh / nguyên âm → /z/: robs, knows, sees	mlh-chuong-2-thi::04-chinh-ta-phat-am
+hoped: -ed đọc gì?	/t/: e câm, âm cuối thật là /p/ (vô thanh)	mlh-chuong-2-thi::04-chinh-ta-phat-am
+Mệnh đề chính ở quá khứ đơn → mệnh đề phụ dùng thì nào?	Các thì quá khứ, would + V, was/were going to + V: We knew that the bridge was unsafe.	mlh-chuong-2-thi::05-phoi-hop-thi
+'Sẽ' nhìn từ quá khứ (tương lai trong quá khứ) viết thế nào?	would + V: We thought that it would rain.	mlh-chuong-2-thi::05-phoi-hop-thi
+Mệnh đề chính quá khứ, khi nào mệnh đề phụ vẫn ở hiện tại đơn?	Khi nói chân lý, sự thật hiển nhiên, thói quen hiện tại: Copernicus proved that the earth moves round the sun.	mlh-chuong-2-thi::05-phoi-hop-thi
+Mệnh đề chính hiện tại đơn, khi nào mệnh đề phụ dùng quá khứ đơn?	Khi có mốc thời gian quá khứ: She says she was born in 1980.	mlh-chuong-2-thi::05-phoi-hop-thi
+Chính: hiện tại hoàn thành → phụ? Chính: quá khứ hoàn thành → phụ?	Hiện tại đơn: I have forgotten what he looks like. Quá khứ đơn: They had done all that was necessary.	mlh-chuong-2-thi::05-phoi-hop-thi
+Mệnh đề chính ở hiện tại → mệnh đề thời gian ở thì nào?	Thì hiện tại (đơn, tiếp diễn, hoàn thành): He visits us whenever he is in town.	mlh-chuong-2-thi::05-phoi-hop-thi
+Mệnh đề chính ở quá khứ → mệnh đề thời gian ở thì nào?	Thì quá khứ: It was raining hard when I got there.	mlh-chuong-2-thi::05-phoi-hop-thi
+no sooner đi cặp với từ nào?	than: I had no sooner closed the door than somebody knocked.	mlh-chuong-2-thi::05-phoi-hop-thi
+hardly / scarcely đi cặp với từ nào?	when hoặc before: I had hardly closed my eyes when the phone rang.	mlh-chuong-2-thi::05-phoi-hop-thi
+By the time + quá khứ đơn, mệnh đề chính dùng gì?	had + V3 (việc đã xong trước): By the time I arrived, they had already left.	mlh-chuong-2-thi::05-phoi-hop-thi
+Có dùng will sau when, as soon as, until, after… không?	Không, dùng thì hiện tại: I'll call you when I get home.	mlh-chuong-2-thi::05-phoi-hop-thi
+Tương lai tiếp diễn trong mệnh đề thời gian đổi thành gì?	Hiện tại tiếp diễn: I'll relax when I'm lying by the pool.	mlh-chuong-2-thi::05-phoi-hop-thi
+Tương lai hoàn thành trong mệnh đề thời gian đổi thành gì?	Hiện tại hoàn thành: Let's carry on until we've finished.	mlh-chuong-2-thi::05-phoi-hop-thi
+since: mệnh đề chính và mệnh đề since thường ở thì nào?	Chính: hiện tại hoàn thành; since + quá khứ đơn: We haven't seen her since she left school.	mlh-chuong-2-thi::05-phoi-hop-thi
+It's a long time since I last ___ (see) them.	saw: It's … since + quá khứ đơn (hoặc hiện tại hoàn thành); It was … since + had + V3.	mlh-chuong-2-thi::05-phoi-hop-thi

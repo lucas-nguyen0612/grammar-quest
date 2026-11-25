@@ -1,0 +1,59 @@
+{
+  "slug": "mlh-chuong-2-thi",
+  "title": "Chương 2 · Thì và sự phối hợp thì",
+  "icon": "📗",
+  "subtitle": "5 chủ đề · 20 bài, mỗi bài 25 phút. Học mỗi ngày một bài, ôn theo lịch.",
+  "source": "Giải thích ngữ pháp tiếng Anh, Mai Lan Hương & Hà Thanh Uyên (tr. 254–318)",
+  "order": 2,
+  "topics": [
+    {
+      "id": "01-thi-hien-tai",
+      "title": "Các thì hiện tại",
+      "icon": "⏱️"
+    },
+    {
+      "id": "02-thi-qua-khu",
+      "title": "Các thì quá khứ",
+      "icon": "⏪"
+    },
+    {
+      "id": "03-thi-tuong-lai",
+      "title": "Các thì tương lai",
+      "icon": "⏩"
+    },
+    {
+      "id": "04-chinh-ta-phat-am",
+      "title": "Chính tả và phát âm đuôi -s, -ed, -ing",
+      "icon": "🔤"
+    },
+    {
+      "id": "05-phoi-hop-thi",
+      "title": "Sự phối hợp thì",
+      "icon": "🔗"
+    }
+  ],
+  "lessons": [
+    "01a",
+    "01b",
+    "01c",
+    "01d",
+    "01e",
+    "02a",
+    "02b",
+    "02c",
+    "02d",
+    "02e",
+    "03a",
+    "03b",
+    "03c",
+    "03d",
+    "03e",
+    "04a",
+    "04b",
+    "05a",
+    "05b",
+    "05c"
+  ],
+  "questions": 380,
+  "flashcards": 98
+}
