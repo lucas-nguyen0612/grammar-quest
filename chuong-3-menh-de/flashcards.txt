@@ -1,0 +1,116 @@
+#separator:tab
+#html:false
+#tags column:3
+Mệnh đề danh ngữ là gì?	Một mệnh đề (có S + V) đóng vai một cụm danh từ: I know where she lives.	mlh-chuong-3-menh-de::01-menh-de-danh-ngu
+Năm vị trí của mệnh đề danh ngữ?	Chủ ngữ · tân ngữ của động từ · tân ngữ của giới từ · bổ ngữ sau be · đồng cách sau danh từ	mlh-chuong-3-menh-de::01-menh-de-danh-ngu
+Những từ mở đầu mệnh đề danh ngữ?	that, whether / if, what, who, whom, whose, which, where, when, why, how, whoever, whomever, whatever, whichever	mlh-chuong-3-menh-de::01-menh-de-danh-ngu
+'Điều mà / cái mà' trong tiếng Anh?	What: What I need is sleep. (không dùng That)	mlh-chuong-3-menh-de::01-menh-de-danh-ngu
+Mệnh đề đồng cách là gì?	Mệnh đề that đứng sau danh từ, nói rõ nội dung danh từ đó: the news that we are having a holiday tomorrow	mlh-chuong-3-menh-de::01-menh-de-danh-ngu
+Mẹo nhận ra mệnh đề danh ngữ?	Thay cả cụm bằng it / something: I know where she lives → I know it.	mlh-chuong-3-menh-de::01-menh-de-danh-ngu
+Khi nào được bỏ that?	Khi mệnh đề đứng sau động từ hoặc sau tính từ: We know (that) the world is round. · I'm glad (that) you came.	mlh-chuong-3-menh-de::01-menh-de-danh-ngu
+Khi nào phải giữ that?	Khi mệnh đề làm chủ ngữ hoặc đứng sau danh từ: That she lied is obvious. · the fact that she lied	mlh-chuong-3-menh-de::01-menh-de-danh-ngu
+Hai chỗ không dùng if (chỉ dùng whether)?	Đầu câu (chủ ngữ) và sau giới từ: Whether we win isn't clear. · It depends on whether it rains.	mlh-chuong-3-menh-de::01-menh-de-danh-ngu
+What did he say? → I couldn't hear ___	I couldn't hear what he said. (bỏ did, he trước said)	mlh-chuong-3-menh-de::01-menh-de-danh-ngu
+Can you tell me where ___? (the station / is)	Can you tell me where the station is?	mlh-chuong-3-menh-de::01-menh-de-danh-ngu
+Will it rain? → I wonder ___	I wonder if / whether it will rain.	mlh-chuong-3-menh-de::01-menh-de-danh-ngu
+Mệnh đề quan hệ đứng ở đâu?	Ngay sau danh từ nó bổ nghĩa: the man who lives next door	mlh-chuong-3-menh-de::02-menh-de-quan-he
+who / which dùng cho gì?	who: người · which: vật, con vật, sự việc	mlh-chuong-3-menh-de::02-menh-de-quan-he
+that thay được cho gì?	Cả người lẫn vật (thay who/whom/which), chỉ trong mệnh đề xác định (không dấu phẩy)	mlh-chuong-3-menh-de::02-menh-de-quan-he
+whom khác who ở đâu?	whom chỉ làm tân ngữ, trang trọng: the scientists whom I admire	mlh-chuong-3-menh-de::02-menh-de-quan-he
+'của người/vật đó' trong mệnh đề quan hệ?	whose + N: a girl whose hair was long	mlh-chuong-3-menh-de::02-menh-de-quan-he
+the man who he lives… sai ở đâu?	Bỏ he: the man who lives… (who đã thay cho he)	mlh-chuong-3-menh-de::02-menh-de-quan-he
+Danh từ vừa người vừa vật → đại từ quan hệ nào?	that: farmers and cattle that are going to the field	mlh-chuong-3-menh-de::02-menh-de-quan-he
+Sau so sánh nhất dùng gì?	that (hoặc bỏ nếu là tân ngữ): the best film that I've seen	mlh-chuong-3-menh-de::02-menh-de-quan-he
+all what I want đúng không?	Sai. All (that) I want …	mlh-chuong-3-menh-de::02-menh-de-quan-he
+Khi nào bỏ được đại từ quan hệ?	Khi nó là tân ngữ trong mệnh đề xác định: the film (that) we saw	mlh-chuong-3-menh-de::02-menh-de-quan-he
+where / when / why bằng gì?	where = in/at which · when = on/at/in which · why = for which	mlh-chuong-3-menh-de::02-menh-de-quan-he
+the house I used to live … ?	Bỏ where thì thêm giới từ: the house I used to live in	mlh-chuong-3-menh-de::02-menh-de-quan-he
+Hai chỗ đặt giới từ trong mệnh đề quan hệ?	Trước whom/which (trang trọng): with whom he worked · Sau động từ (thân mật): who he worked with	mlh-chuong-3-menh-de::02-menh-de-quan-he
+about who / for that được không?	Không. Giới từ chỉ đứng trước whom và which.	mlh-chuong-3-menh-de::02-menh-de-quan-he
+without đặt ở đâu?	Trước whom/which: the woman without whom I can't live. Không để cuối.	mlh-chuong-3-menh-de::02-menh-de-quan-he
+look after, listen to trong mệnh đề quan hệ?	Không tách: the child (who) I look after	mlh-chuong-3-menh-de::02-menh-de-quan-he
+many of + ? (người) · none of + ? (vật)	many of whom · none of which (có dấu phẩy phía trước)	mlh-chuong-3-menh-de::02-menh-de-quan-he
+Mệnh đề xác định là gì?	Cho biết người/vật nào, không có dấu phẩy: the man who called you	mlh-chuong-3-menh-de::02-menh-de-quan-he
+Mệnh đề không xác định là gì?	Thêm thông tin về người/vật đã rõ, có dấu phẩy: Hanoi, which is the capital, …	mlh-chuong-3-menh-de::02-menh-de-quan-he
+Mệnh đề có dấu phẩy dùng that được không?	Không: Julie, who lives in New York, …	mlh-chuong-3-menh-de::02-menh-de-quan-he
+Mệnh đề có dấu phẩy bỏ được đại từ tân ngữ không?	Không: My sister, who I live with, …	mlh-chuong-3-menh-de::02-menh-de-quan-he
+', which' trỏ cả câu nghĩa là gì?	'điều đó': It rained all night, which was good for the garden.	mlh-chuong-3-menh-de::02-menh-de-quan-he
+London, ___ I was born: where hay which?	where (= in which), vì *I was born* đã đủ chủ ngữ, động từ.	mlh-chuong-3-menh-de::02-menh-de-quan-he
+Rút gọn mệnh đề chủ động (đang / lâu dài / mong muốn)?	V-ing: the people waiting outside	mlh-chuong-3-menh-de::02-menh-de-quan-he
+Khi nào KHÔNG rút gọn bằng V-ing?	Hành động một lần, đã xong trong quá khứ: the customer who phoned yesterday	mlh-chuong-3-menh-de::02-menh-de-quan-he
+Rút gọn mệnh đề bị động?	V3: the student chosen as winner · đang bị: being taken away	mlh-chuong-3-menh-de::02-menh-de-quan-he
+Peter, who is our manager, … → ?	Cụm danh từ: Peter, our manager, …	mlh-chuong-3-menh-de::02-menh-de-quan-he
+the first / the only / so sánh nhất + ?	to-V: the first man to go into space	mlh-chuong-3-menh-de::02-menh-de-quan-he
+a garden that he could play in → ?	a garden for him to play in	mlh-chuong-3-menh-de::02-menh-de-quan-he
+available / possible đứng ở đâu?	Sau danh từ: all the tickets available, the only date possible	mlh-chuong-3-menh-de::02-menh-de-quan-he
+Mệnh đề trạng ngữ đứng trước mệnh đề chính thì cần gì?	Dấu phẩy: When I get home, I'll phone you.	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+where và wherever khác nhau thế nào?	where = ở nơi đó: Stay where you are. wherever = bất cứ nơi đâu: I'll go wherever you go.	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+Nói về tương lai: mệnh đề when / until / as soon as chia thì gì?	Thì hiện tại: I'll write to her when I have time. (không dùng will)	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+Sự thật, thói quen: mệnh đề thời gian chia thì gì?	Hiện tại ở cả hai: When you heat ice, it turns to water.	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+since: mệnh đề chính và mệnh đề since chia thì gì?	Chính: hiện tại hoàn thành; since: quá khứ đơn. I haven't played rugby since I left university.	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+Rút gọn mệnh đề thời gian: sau before / after / since dùng gì?	V-ing: Think carefully before deciding.	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+while dùng khi nào?	Hai việc song song: John cooked supper while I watched TV.	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+as dùng khi nào (nghĩa thời gian)?	Hai việc cùng thay đổi dần: As I get older, I get happier. (không dùng while)	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+Nói về tuổi / giai đoạn đời dùng while hay when?	when: When I was a child… · I'll be a millionaire when I'm thirty.	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+just as / just when nghĩa là gì?	Vừa đúng lúc (hai việc ngắn cùng lúc): Just when I stepped out, the phone rang.	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+hardly / scarcely đi với từ nào? no sooner đi với từ nào?	hardly/scarcely… when (before) · no sooner… than	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+Hardly / No sooner đứng đầu câu thì sao?	Đảo ngữ: Hardly had I closed my eyes when… · No sooner did we sit down than…	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+because / since / as đi với gì?	S + V: He came late because he missed the bus.	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+because và since/as khác nhau thế nào về sắc thái?	because nhấn mạnh lý do (thông tin mới); since/as cho lý do người nghe đã biết.	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+Câu bắt đầu bằng Because… có dùng so không?	Không: Because it was cold, so I turned the heating on.	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+Mệnh đề for (lý do) đứng ở đâu?	Sau mệnh đề chính, sau dấu phẩy: The days are short, for it is now December.	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+because of / due to / owing to đi với gì?	Danh từ, đại từ, V-ing: due to the cold weather · because of being sick	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+Muốn dùng mệnh đề sau because of / due to?	Thêm the fact that: due to the fact that he was not qualified.	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+so + ? + that	Tính từ/trạng từ: so dark that… · so fast that… (và so many/few/much/little + N)	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+such + ? + that	(a/an) + tính từ + danh từ: such a heavy piano that… · such fierce dogs that…	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+so many people = such … people?	such a lot of people (so đi với many/much; such đi với a lot of)	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+Có dùng very thay so trong 'quá… đến nỗi' không?	Không: He was so weak that… (NOT very weak that)	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+The water is too salty to drink ___? (có thêm it không?)	Không thêm it: too salty to drink. Muốn nêu người: too salty for us to drink (it).	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+enough đứng trước hay sau?	Sau tính từ: old enough · Trước danh từ: enough money	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+Từ nào bổ nghĩa cho too?	much, far, a lot, a little, a bit, rather: far too cold, much too young	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+so that / in order that + S + ? (hiện tại – tương lai)	will / can / may + V: Put the milk in the fridge so that it won't spoil.	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+so that sau mệnh đề chính quá khứ dùng gì?	would / could / might: We moved to London so that we could visit our parents.	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+Bỏ that được sau so? Sau in order?	Sau so: được (thân mật). Sau in order: không.	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+'Để không…' dùng cụm nào?	in order not to / so as not to + V (không dùng *not to* một mình)	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+for + V-ing dùng khi nào?	Nói công dụng của vật: used for cutting bread. Hành động cụ thể → to-V.	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+Mục đích gắn với việc người khác làm?	for + O + to-V: I left the door unlocked for Harry to get in.	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+lest nghĩa là gì?	= so that… not, rất trang trọng (văn chương): lest robbers should come	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+although / though / even though đi với gì?	S + V: Although the weather was bad, we had a wonderful holiday.	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+Câu có Although… có dùng but không?	Không: Although Kevin worked hard, but he failed.	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+even though khác although thế nào?	even though nhấn mạnh sự tương phản hơn: Even though I didn't understand a word, I kept smiling.	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+in spite of / despite đi với gì?	Danh từ, đại từ, V-ing: despite the rain · in spite of working hard. Mệnh đề → the fact that.	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+Rich as he is, … nghĩa là gì?	= Although he is rich, … (tính từ + as/though + S + V)	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+no matter what / who / how = ?	whatever / whoever / however: No matter what he says = Whatever he says	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+though ở cuối câu nghĩa là gì?	= but / however: I like the garden, though.	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+unless = ?	if… not (trừ khi). Không thêm not: unless the pay is too low.	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+in case khác if thế nào?	in case = phòng khi (làm trước); if = nếu (làm khi việc xảy ra).	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+Bỏ if bằng đảo ngữ: 3 dạng?	Should you need… · Were the child mine… · Had I not…	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+with / without / but for đi với gì?	Danh từ / đại từ: But for you, I'd have drowned.	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+as you know hay like you know?	As you know (điều đã biết → as). like chỉ được với *Like I said* (thân mật).	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+as if + điều không thật ở hiện tại?	Quá khứ đơn (were): He talks as if he knew everything.	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+as if + điều không thật ở quá khứ?	Quá khứ hoàn thành: He looked as if he had worked very hard.	mlh-chuong-3-menh-de::03-menh-de-trang-ngu
+Ước điều trái với hiện tại: động từ sau wish chia thế nào?	Quá khứ đơn (V2): I wish I had a car.	mlh-chuong-3-menh-de::04-wish-if-only
+wish + be với I / he / she / it?	was hoặc were (were trang trọng hơn): I wish I were taller.	mlh-chuong-3-menh-de::04-wish-if-only
+Thực tế 'can't' → sau wish dùng gì?	could + V: I wish I could swim.	mlh-chuong-3-menh-de::04-wish-if-only
+Mong người khác làm gì / việc gì xảy ra?	wish + S + would + V: I wish it would stop raining.	mlh-chuong-3-menh-de::04-wish-if-only
+Có nói 'I wish I would…' được không?	Không. Chính mình → could: I wish I could come.	mlh-chuong-3-menh-de::04-wish-if-only
+Tình trạng có dùng would sau wish được không?	Không: I wish my life was more interesting (không phải would be).	mlh-chuong-3-menh-de::04-wish-if-only
+Điều có thể xảy ra: wish hay hope?	hope + hiện tại: I hope you pass your exams.	mlh-chuong-3-menh-de::04-wish-if-only
+Ước ở quá khứ: sau wish chia thế nào?	had + V3: I wish I had studied harder.	mlh-chuong-3-menh-de::04-wish-if-only
+Tiếc vì hồi đó không thể làm gì?	could have + V3: I wish I could have been at the wedding.	mlh-chuong-3-menh-de::04-wish-if-only
+If only khác wish ở điểm nào?	'Giá mà', mạnh hơn, rõ ràng hơn; chia thì giống hệt wish.	mlh-chuong-3-menh-de::04-wish-if-only
+Mệnh đề If only đứng ở đâu?	Đứng một mình (If only I had more time!) hoặc trong câu điều kiện: If only I weren't so fat, I would…	mlh-chuong-3-menh-de::04-wish-if-only
+wished có làm đổi thì phía sau không?	Không: He wished he knew her address.	mlh-chuong-3-menh-de::04-wish-if-only
+Ba loại ước: tương lai / hiện tại / quá khứ?	would + V / V2, were, could / had V3, could have V3	mlh-chuong-3-menh-de::04-wish-if-only
+It's time + chủ ngữ + động từ ở dạng nào?	Quá khứ đơn, nhưng nghĩa hiện tại: It's time we went home.	mlh-chuong-3-menh-de::05-its-time-would-rather
+It's time + (không có chủ ngữ) + ?	to-V: It's time to buy a new car.	mlh-chuong-3-menh-de::05-its-time-would-rather
+It's time + for + ?	for + tân ngữ + to-V: It's high time for the children to go to bed.	mlh-chuong-3-menh-de::05-its-time-would-rather
+Ba cách mở đầu 'đã đến lúc' trong sách?	It's time / It's high time / It's about time + S + V quá khứ.	mlh-chuong-3-menh-de::05-its-time-would-rather
+Sửa: It's time we should go.	Bỏ should: It's time we went.	mlh-chuong-3-menh-de::05-its-time-would-rather
+would rather + ? (chính mình, bây giờ / sắp tới)	V nguyên mẫu không to: I'd rather stay home.	mlh-chuong-3-menh-de::05-its-time-would-rather
+Phủ định của would rather?	would rather not + V: I'd rather not go. (không nói wouldn't rather)	mlh-chuong-3-menh-de::05-its-time-would-rather
+would rather do = would prefer ___ do?	would prefer to do: I'd prefer to walk.	mlh-chuong-3-menh-de::05-its-time-would-rather
+would rather + chính mình + chuyện đã qua?	have + V3: I'd rather have gone by air.	mlh-chuong-3-menh-de::05-its-time-would-rather
+would rather + người khác + bây giờ / sắp tới?	S + quá khứ đơn: I'd rather you went home now.	mlh-chuong-3-menh-de::05-its-time-would-rather
+would rather + người khác + chuyện đã qua?	S + had V3: Roberto would rather we hadn't left yesterday. (wish hay dùng hơn)	mlh-chuong-3-menh-de::05-its-time-would-rather
+Từ chối lịch sự 'Tôi muốn bạn đừng làm vậy'?	I'd rather you didn't.	mlh-chuong-3-menh-de::05-its-time-would-rather

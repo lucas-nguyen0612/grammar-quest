@@ -1,0 +1,57 @@
+{
+  "slug": "mlh-chuong-3-menh-de",
+  "title": "Chương 3 · Mệnh đề",
+  "icon": "📙",
+  "subtitle": "5 chủ đề · 18 bài, mỗi bài 25 phút. Học mỗi ngày một bài, ôn theo lịch.",
+  "source": "Giải thích ngữ pháp tiếng Anh, Mai Lan Hương & Hà Thanh Uyên (tr. 319–393)",
+  "order": 3,
+  "topics": [
+    {
+      "id": "01-menh-de-danh-ngu",
+      "title": "Mệnh đề danh ngữ",
+      "icon": "🧱"
+    },
+    {
+      "id": "02-menh-de-quan-he",
+      "title": "Mệnh đề quan hệ",
+      "icon": "🔗"
+    },
+    {
+      "id": "03-menh-de-trang-ngu",
+      "title": "Mệnh đề trạng ngữ",
+      "icon": "🧭"
+    },
+    {
+      "id": "04-wish-if-only",
+      "title": "Mệnh đề sau Wish và If only",
+      "icon": "🌠"
+    },
+    {
+      "id": "05-its-time-would-rather",
+      "title": "It's time và Would rather",
+      "icon": "⏰"
+    }
+  ],
+  "lessons": [
+    "01a",
+    "01b",
+    "02a",
+    "02b",
+    "02c",
+    "02d",
+    "02e",
+    "03a",
+    "03b",
+    "03c",
+    "03d",
+    "03e",
+    "03f",
+    "03g",
+    "04a",
+    "04b",
+    "05a",
+    "05b"
+  ],
+  "questions": 766,
+  "flashcards": 113
+}
